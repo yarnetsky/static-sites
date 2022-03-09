@@ -4,7 +4,7 @@ title: "Example Projects"
 permalink: /examples/
 ---
 
-# Example projects
+# Example SSG Projects
 
 ## SSGs in academia
 
