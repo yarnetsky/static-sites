@@ -19,6 +19,8 @@ permalink: /learn/
 - [Building a static website with Jekyll and GitHub Pages](https://programminghistorian.org/en/lessons/building-static-sites-with-jekyll-github-pages): From _The Programming Historian_.
 - [Creating and Hosting a Personal Site on GitHub Pages](http://jmcglone.com/guides/github-pages/)
 - [Using Static Site Generators for Scholarly Publications and Open Educational Resources](https://journal.code4lib.org/articles/13861): from the _Code4Lib Journal_
+- [Setting Up a Github Pages Site with Jekyll:Github documentation](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll)
+- [Jekyll and Institutional Repositories](https://arch.library.northwestern.edu/concern/generic_works/6q182k274): A presentation on leveraging Jekyll for scholarly publishing in academic libraries.
 
 ## Resources
 - [Jamstack Conference](https://jamstackconf.com/): Free videos repository from their conferences.

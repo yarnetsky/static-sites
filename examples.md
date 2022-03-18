@@ -9,15 +9,16 @@ permalink: /examples/
 ## SSGs in academia
 
 - [Programs in Digital Humanities](https://digitalhumanities.mit.edu/): This MIT site was created by Eleventy.
-- [How we made the Mid-Michigan website faster](https://www.midmich.edu/community/about-mmcc/college-governance/board-trustees/midmonth/midmonth-2019/midmonth-march-2019/how-we-made-mid-web-site-front-page-faster): Mid-Michigan College redesigned in 2019 using Gatsby.
 - Digital Collections from the Columbia University Libraries: [The Biggert Collection of Architectural Vignettes](https://dlc.library.columbia.edu/biggert/) and [The Barbara Curtis Adachi Bunraku Collection](https://bunraku.library.columbia.edu/)
 - [Historical Topographic Map Digitizaton Project](https://ocul.on.ca/topomaps/) from the Ontario Council of University Libraries was created with Hugo.
 - [Archives Unleashed Project](https://archivesunleashed.org/) is built with Hugo.
 - [Getty Museum digital publications](https://www.getty.edu/publications/digital/index.html): The Getty created the [Quire](https://www.getty.edu/publications/digital/platforms-tools.html) project as an extension of Hugo for creating multi-format digital publications.
 - Research labs using Jekyll: [Riggleman Computational Soft Matter Lab](http://rrgroup.seas.upenn.edu/) at the University of Pennsylvania and the [Zhou Lab](https://zhaolab.uchicago.edu/), a structural biology lab at the University of Chicago.
+- [Wyoming Oral History Online](https://oralhistory.wyshs.org/)
+- [She Changed the World: North Carolina women breaking barriers](https://she-changed-world.cb.ncpedia.org/)
 - Universities promoting use of SSGs: [UC Berkeley](https://www.ocf.berkeley.edu/docs/services/web/jekyll/), [SUNY Buffalo](https://research.lib.buffalo.edu/dh/share), [Rutgers](https://dh.rutgers.edu/event/hugo-websites-1/), and [Jekyll Academic theme](https://ncsu-libraries.github.io/jekyll-academic-docs/) from North Carolina State.
 
-## Additional SSG-built sites
+## Government SSG-built sites
 
 - [Virginia.gov](https://www.virginia.gov/) using Hugo
 - [Vote.gov](https://vote.gov/) using Hugo
