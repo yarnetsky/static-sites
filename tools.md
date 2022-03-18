@@ -35,3 +35,8 @@ There are dozens of SSG front ends. Here are select ones that are open source or
 - [Github Pages](https://pages.github.com/)
 - [Surge.sh](https://surge.sh/)
 - [Netlify](https://netlify.com)
+
+## Themes and Tools
+
+- [Collection Builder](https://collectionbuilder.github.io/): Open source tool for creating digital collection and exhibit websites with static site generators.
+
