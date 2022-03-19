@@ -33,5 +33,7 @@ There are dozens of SSG front ends. Here are select ones that are open source or
 ## Free SSG hosting
 
 - [Github Pages](https://pages.github.com/)
-- [Surge.sh](https://surge.sh/)
 - [Netlify](https://netlify.com)
+- [Surge.sh](https://surge.sh/)
+- [Forge](Getforge.com)
+- [Vercel](Vercel.com)
