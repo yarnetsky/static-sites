@@ -21,20 +21,22 @@ These sites consolidate all the resources and offer multiple methods of narrowin
 - [11ty](https://www.11ty.dev/): Eleventy was created as a simpler Javascript-based alternative to Jekyll. Supports 11 templating languages.
 - [Next.js](https://nextjs.org/): This is an option if you're looking to span the gap between web applications and static site generation.
 
-## Popular Graphical Front Ends
+## Popular Graphical Front Ends and Headless CMS
 
 There are dozens of SSG front ends. Here are select ones that are open source or have free options for one-off sites...
 
+- [NetlifyCMS](https://www.netlifycms.org/) is an open source tool developed to compliment their [CDN hosting](https://www.netlify.com/).
 - [Jekyll Admin](https://jekyll.github.io/jekyll-admin/): Gem provides editing interface for a specific project
 - [SiteLeaf](https://www.siteleaf.com/): Individual accounts are free.
-- [NetlifyCMS](https://www.netlifycms.org/) is an open source tool developed to compliment their [CDN hosting](https://www.netlify.com/).
 - [Forestry.io](https://forestry.io): Individual accounts are free.
+- [Strapi](https://strapi.io/): Open-sourxe CMS featuring atomic-level content type building tools.
+- [TinaCMS](https://tina.io/): Open-source, Git-backed visual-editing oriented CMS.
 
 ## Free SSG hosting
 
 - [Github Pages](https://pages.github.com/)
-- [Surge.sh](https://surge.sh/)
 - [Netlify](https://netlify.com)
+- [Surge.sh](https://surge.sh/)
 
 ## Themes and Tools
 
