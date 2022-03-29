@@ -20,10 +20,10 @@ permalink: /examples/
 
 ## Government SSG-built sites
 
-- [Virginia.gov](https://www.virginia.gov/) using Hugo
+- [2022 Code4Lib National Conference](https://2022.code4lib.org/) was created using Jekyll.
 - [Vote.gov](https://vote.gov/) using Hugo
+- [Virginia.gov](https://www.virginia.gov/) using Hugo
 - [Visit Paris](https://www.visitparisregion.com/en) is the region's official visitors guide. Created using Hugo.
 - [United Nations World Statistics Day](https://worldstatisticsday.org/)
-- [Code4Lib National Conference](https://2021.code4lib.org/) was created using Jekyll.
 - [Smashing Magazine](https://www.smashingmagazine.com/) is a popular online web dev magazine that uses Hugo. Here is the [story of their switch to an SSG](https://www.smashingmagazine.com/2017/03/a-little-surprise-is-waiting-for-you-here/); and an early [article about lessons learned](https://www.smashingmagazine.com/2016/08/using-a-static-site-generator-at-scale-lessons-learned/).
 - Hybrid web app, static sites created with Next.js include [AT&T](att.com) and [Hulu](hulu.com)

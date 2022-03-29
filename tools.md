@@ -21,7 +21,7 @@ These sites consolidate all the resources and offer multiple methods of narrowin
 - [11ty](https://www.11ty.dev/): Eleventy was created as a simpler Javascript-based alternative to Jekyll. Supports 11 templating languages.
 - [Next.js](https://nextjs.org/): This is an option if you're looking to span the gap between web applications and static site generation.
 
-## Popular Graphical Front Ends and Headless CMS
+## Popular Graphical Front Ends and "Headless CMS"
 
 There are dozens of SSG front ends. Here are select ones that are open source or have free options for one-off sites...
 

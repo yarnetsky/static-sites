@@ -22,8 +22,8 @@ permalink: /learn/
 - [Setting Up a Github Pages Site with Jekyll:Github documentation](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll)
 - [Jekyll and Institutional Repositories](https://arch.library.northwestern.edu/concern/generic_works/6q182k274): A presentation on leveraging Jekyll for scholarly publishing in academic libraries.
 
-
 ## Resources
+
 - [Jamstack Conference](https://jamstackconf.com/): Free videos repository from their conferences.
 - [Jamstack Learning Resources](https://jamstack.org/resources/)
 - [Get Started with Markdown](https://www.markdownguide.org/getting-started/): Markdown is a popular content markup syntax that is quicker and more convenient to use than hard coding HTML for your pages.
